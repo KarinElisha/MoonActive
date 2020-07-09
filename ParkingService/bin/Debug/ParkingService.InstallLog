@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.exe
+   logfile = C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\ParkingService.InstallLog

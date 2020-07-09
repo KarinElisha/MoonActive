@@ -1,0 +1,25 @@
+2020-07-09 01:05:41,410 [5] INFO ParkingService.Service1 - application started
+2020-07-09 01:05:41,458 [5] INFO ParkingService.Parking - sent request
+2020-07-09 01:05:43,001 [11] INFO ParkingService.Parking - have a response
+2020-07-09 01:05:43,269 [11] INFO ParkingService.Parking - The 46476503 can't park
+2020-07-09 01:05:43,464 [11] INFO ParkingService.Parking - Insert to DB
+2020-07-09 01:05:43,464 [11] INFO ParkingService.Parking - finished to check the image C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\Images\divid7.jpg
+2020-07-09 01:05:43,464 [11] INFO ParkingService.Parking - sent request
+2020-07-09 01:05:44,717 [10] INFO ParkingService.Parking - have a response
+2020-07-09 01:05:44,718 [10] INFO ParkingService.Parking - Insert to DB
+2020-07-09 01:05:44,718 [10] INFO ParkingService.Parking - finished to check the image C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\Images\regular.jpg
+2020-07-09 01:05:44,719 [10] INFO ParkingService.Parking - sent request
+2020-07-09 01:05:46,035 [11] INFO ParkingService.Parking - have a response
+2020-07-09 01:05:46,036 [11] INFO ParkingService.Parking - Insert to DB
+2020-07-09 01:05:46,036 [11] INFO ParkingService.Parking - finished to check the image C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\Images\screenshot.jpg
+2020-07-09 01:05:46,036 [11] INFO ParkingService.Parking - sent request
+2020-07-09 01:05:47,701 [10] INFO ParkingService.Parking - have a response
+2020-07-09 01:05:47,701 [10] INFO ParkingService.Parking - The 6387326 can't park
+2020-07-09 01:05:47,709 [10] INFO ParkingService.Parking - Insert to DB
+2020-07-09 01:05:47,709 [10] INFO ParkingService.Parking - finished to check the image C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\Images\taxi.jpg
+2020-07-09 01:05:47,709 [10] INFO ParkingService.Parking - sent request
+2020-07-09 01:05:48,958 [11] INFO ParkingService.Parking - have a response
+2020-07-09 01:05:48,958 [11] INFO ParkingService.Parking - The q EBZ 5 can't park
+2020-07-09 01:05:48,958 [11] INFO ParkingService.Parking - Insert to DB
+2020-07-09 01:05:48,959 [11] INFO ParkingService.Parking - finished to check the image C:\Users\nehor\source\repos\ParkingService\ParkingService\bin\Debug\Images\withLetter2.png
+2020-07-09 01:05:48,959 [5] INFO ParkingService.Service1 - finished to overall the license plates
